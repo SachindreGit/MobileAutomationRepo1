@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>androidApiDemosAppManualTestCase</description>
+   <name>androidApiDemosAppManualTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15b8c64d-2295-4d0a-9a2f-499dac117be0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>803ce8ea-7178-4bb1-83a3-a4d976721b72</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'niaylk'</defaultValue>
+      <description></description>
+      <id>803ce8ea-7178-4bb1-83a3-a4d976721b72</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+</TestCaseEntity>

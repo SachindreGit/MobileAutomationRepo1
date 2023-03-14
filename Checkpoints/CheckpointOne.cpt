@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CheckpointOne</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/iosCoffeeTimerApplicationTestData</source-url>
+   </source-info>
+   <taken-date>2023-03-01T13:09:47.882</taken-date>
+   <column-names>
+      <column-name>applicationLocation</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "/Users/nirmaan/Documents/app_samples/Coffee Timer.app",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "abc.app",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

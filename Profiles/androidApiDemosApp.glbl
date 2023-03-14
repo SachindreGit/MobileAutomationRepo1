@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>androidApiDemosApp</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/Users/nirmaan/Documents/apk_samples/resources/ApiDemos-debug.apk'</initValue>
+      <name>APPLICATION_LOCATION</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

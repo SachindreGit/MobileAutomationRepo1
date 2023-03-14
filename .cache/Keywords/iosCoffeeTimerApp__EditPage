@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F90760631B88C6A496439CEC31A1E2EC",
+  "keywordClasses": [
+    {
+      "name": "iosCoffeeTimerApp.EditPage",
+      "keywordMethods": [
+        {
+          "name": "printConsole",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

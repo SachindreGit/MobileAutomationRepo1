@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>iosSampleAppTestCase</description>
+   <name>iosCoffeeTimerAppRecordTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9232c1eb-010c-4fdd-a265-7f8465ca6fc3</testCaseGuid>
+</TestCaseEntity>

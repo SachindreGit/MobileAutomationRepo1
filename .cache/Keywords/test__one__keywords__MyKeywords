@@ -1,0 +1,35 @@
+{
+  "keywordFileContentHash": "E049D16B07AD7150183B4D0A6BD23B49",
+  "keywordClasses": [
+    {
+      "name": "test.one.keywords.MyKeywords",
+      "keywordMethods": [
+        {
+          "name": "printConsole",
+          "parameters": [
+            {
+              "name": "input",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "printDeviceOs",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

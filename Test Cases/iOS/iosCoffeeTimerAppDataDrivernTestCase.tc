@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>iosCoffeeTimerAppDataDrivernTestCase</description>
+   <name>iosCoffeeTimerAppDataDrivernTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4fa6ed21-ad92-4b1b-905a-14f318de3ee3</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>193a86e9-f5c2-4029-bcf0-12db38e2f298</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/iosCoffeeTimerApplicationTestData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>193a86e9-f5c2-4029-bcf0-12db38e2f298</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>applicationLocation</value>
+      <variableId>13850775-6e8e-4dcd-94bb-45e1640a2465</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'/Users/nirmaan/Documents/app_samples/Coffee Timer.app'</defaultValue>
+      <description></description>
+      <id>13850775-6e8e-4dcd-94bb-45e1640a2465</id>
+      <masked>false</masked>
+      <name>applicationLocation</name>
+   </variable>
+</TestCaseEntity>
